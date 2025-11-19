@@ -3,7 +3,9 @@
 A modern ecommerce-style shoe shopping interface built with Flutter.
 
 ## 📸 Preview
-![ShoeApp UI](screenshot1.png)
+<p align="center">
+  <img src="shoeapp/screenshot1.png" width="350" />
+</p>
 
 ## ✨ Features
 - Product cards with images, prices, and ratings  
