@@ -34,16 +34,20 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 ## 🔧 Tech Used
 - Flutter (UI-focused)
 - Dart
-- Custom reusable widgets
-- Responsive layouts
-- pub.dev UI packages where needed
+- Custom widgets
+- pub.dev UI packages (when needed)
+- Responsive layouts using MediaQuery/LayoutBuilder
 
 ## 🎯 Repository Goals
-- Build clean, modern Flutter UIs consistently  
-- Strengthen layout, spacing, and visual hierarchy skills  
-- Improve my ability to turn UI/UX designs into production-ready code  
-- Share progress publicly and track my growth over time  
+- Build clean, modern Flutter UIs consistently
+- Improve spacing, alignment, and layout structure
+- Strengthen my ability to translate UI/UX designs into real code
+- Build a portfolio to attract recruiters and remote opportunities
+- Track my growth publicly
 
 ## 📬 Feedback & Suggestions
-I’m always improving — feel free to open an issue or send feedback  
-if you have UI ideas, suggestions, or designs you'd like to see coded.
+I'm constantly learning.  
+Feel free to open an issue or message me with:
+- UI suggestions  
+- Design ideas  
+- Screens you'd like to see recreated  
