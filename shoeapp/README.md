@@ -3,7 +3,7 @@
 A modern ecommerce-style shoe shopping interface built with Flutter.
 
 ## 📸 Preview
-<p align="center">
+<p style="center">
   <img src="shoeapp/screenshot1.png" width="350" />
 </p>
 
