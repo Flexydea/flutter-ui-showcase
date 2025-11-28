@@ -30,6 +30,20 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 
 🔗  Folder: `DeliverApp`
 
+## 3. Profile Settings UI
+
+- Light & Dark Mode
+- Custom settings tiles with grouped cards
+- Reusable bottom navigation bar
+- Theme toggle using Provider
+
+**Folder:** `profile_settings_ui/`
+
+Screenshots:
+
+![Light Mode](profileapp/light.png)
+![Dark Mode](profileapp/dark.png)
+
 
 ## 🔧 Tech Used
 - Flutter (UI-focused)
