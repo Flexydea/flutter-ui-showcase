@@ -39,6 +39,7 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 
 <p style="center">
   <img src="profileapp/light.png" width="350" />
+  <img src="profileapp/dark.png" width="350" />
 </p>
 <br/>
 <p style="center">
