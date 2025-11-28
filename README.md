@@ -37,12 +37,16 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 - Reusable bottom navigation bar
 - Theme toggle using Provider
 
-**Folder:** `profile_settings_ui/`
+<p style="center">
+  <img src="DeliveryApp/light.png.png" width="350" />
+</p>
+<br/>
+<p style="center">
+  <img src="DeliveryApp/dark.png" width="350" />
+</p>
 
-Screenshots:
 
-![Light Mode](profileapp/light.png)
-![Dark Mode](profileapp/dark.png)
+**Folder:** `profileapp`
 
 
 ## 🔧 Tech Used
