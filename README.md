@@ -38,11 +38,11 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 - Theme toggle using Provider
 
 <p style="center">
-  <img src="DeliveryApp/light.png.png" width="350" />
+  <img src="profileapp/light.png.png" width="350" />
 </p>
 <br/>
 <p style="center">
-  <img src="DeliveryApp/dark.png" width="350" />
+  <img src="profileapp/dark.png" width="350" />
 </p>
 
 
