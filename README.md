@@ -54,7 +54,7 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 - Recent transactions list  
 - Fixed custom bottom navigation bar  
 
-<p align="center">
+<p style="center">
   <img src="banking_app/screenshot4.png" width="350" />
 </p>
 
