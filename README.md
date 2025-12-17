@@ -55,7 +55,7 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 - Fixed custom bottom navigation bar  
 
 <p style="center">
-  <img src="banking_app/screenshot4.png" width="350" />
+  <img src="banking_app_ui/screenshot4.png" width="350" />
 </p>
 
 🔗 Folder: `banking_app`
