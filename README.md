@@ -47,6 +47,18 @@ A growing collection of modern Flutter UI designs I build weekly to improve my s
 
 **Folder:** `profileapp`
 
+### 4. Banking App UI
+- Modern banking dashboard  
+- Balance cards with quick actions  
+- Wallet / pockets section  
+- Recent transactions list  
+- Fixed custom bottom navigation bar  
+
+<p align="center">
+  <img src="banking_app/screenshot4.png" width="350" />
+</p>
+
+🔗 Folder: `banking_app`
 
 ## 🔧 Tech Used
 - Flutter (UI-focused)
